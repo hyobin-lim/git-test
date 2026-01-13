@@ -6,7 +6,7 @@
 5. git bash 에서 탈출 명령어 q
 
 --
-git 시스템에서 3담계로 버전을 관리함
+git 시스템에서 3단계로 버전을 관리함
 1. working-area: 작업중 (Untracked) 상태로 U로 표시됨
  a. 언제든지 파일의 변경이 될 수 있어 기록하지 않음.
 2. stage-area: 저장 (Added) 상태로 A로 표시됨
